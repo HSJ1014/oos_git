@@ -1,2 +1,1 @@
-First commit: Initalizing README.md
-First commit: Initalizing README.md
+이름: 한승준/ 학번: 26125418 / 학과: 컴퓨터소프트웨어학과
